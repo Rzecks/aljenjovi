@@ -1,19 +1,18 @@
-# 👋 Hi, I'm Aljen Jovi C. Roxas  
+# I'm Aljen Jovi C. Roxas  
 
-🎓 **Bachelor of Science in Information Technology (BSIT)** student at **Laguna State Polytechnic University**  
-💻 Aspiring **Web & Mobile Application Developer** | Passionate about **Software Development, Cloud Computing, and UI/UX Design**  
-
----
-
-## 🚀 About Me  
-I am an enthusiastic IT student with a strong passion for building modern applications.  
-Currently, I am enhancing my skills in **Python, Flask, SQL, Flutter, and Dart** to specialize in both **web** and **mobile application development**.  
-
-My goal is to design and develop **user-friendly, secure, and scalable applications**, while continuously improving my knowledge of **cloud solutions** and **UI/UX design** for impactful user experiences.  
+**Bachelor of Science in Information Technology (BSIT)** student at **Laguna State Polytechnic University**  
+Aspiring **Web & Mobile Application Developer** | Passionate about **Software Development, Cloud Computing, and UI/UX Design**  
 
 ---
 
-## 🛠️ Skills & Tools  
+## About Me  
+I am a Bachelor of Science in Information Technology (BSIT) student at **Laguna State Polytechnic University** with a strong interest in **software development and technology innovation**. I am currently enhancing my skills in **Python, Flask, SQL, Flutter, and Dart**, focusing on both **web and mobile application development**.  
+
+My goal is to become a skilled **web and mobile application developer** who can design, build, and maintain **user-friendly, efficient, and secure applications**. I have a growing interest in **cloud computing** for scalable solutions and **UI/UX design** to create applications that are not only functional but also engaging and easy to use. 
+
+---
+
+## Skills & Tools  
 
 - **Programming Languages:** Python, Dart, SQL  
 - **Frameworks & Tools:** Flask, Flutter, Git, GitHub  
@@ -21,14 +20,14 @@ My goal is to design and develop **user-friendly, secure, and scalable applicati
 
 ---
 
-## 📌 Current Projects  
-- 📚 Learning **Git & GitHub** for version control and collaboration  
-- 🐍 Developing **practice projects in Python**  
-- 📱 Creating **small mobile and web apps** as portfolio projects  
+## Current Projects  
+- Learning **Git & GitHub** for version control and collaboration  
+- Developing **practice projects in Python**  
+- Creating **small mobile and web apps** as portfolio projects  
 
 ---
 
-## 📫 Contact Me  
+## Contact Me  
 📧 **Email:** [roxasaljenjovi@gmail.com](mailto:roxasaljenjovi@gmail.com) 
 
 ---
