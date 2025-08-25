@@ -1,4 +1,4 @@
-# I'm Aljen Jovi C. Roxas  
+# Aljen Jovi C. Roxas  
 
 **Bachelor of Science in Information Technology (BSIT)** student at **Laguna State Polytechnic University**  
 Aspiring **Web & Mobile Application Developer** | Passionate about **Software Development, Cloud Computing, and UI/UX Design**  
@@ -29,6 +29,7 @@ My goal is to become a skilled **web and mobile application developer** who can 
 
 ## Contact Me  
 📧 **Email:** [roxasaljenjovi@gmail.com](mailto:roxasaljenjovi@gmail.com) 
+🌐 **LinkIN:** [[Your GitHub Profile Link Here](https://www.linkedin.com/in/roxas-aljenjovi-c-1260a3378)]
 
 ---
 
