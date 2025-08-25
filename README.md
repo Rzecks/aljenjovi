@@ -28,8 +28,8 @@ My goal is to become a skilled **web and mobile application developer** who can 
 ---
 
 ## Contact Me  
-📧 **Email:** [roxasaljenjovi@gmail.com](mailto:roxasaljenjovi@gmail.com) 
-🌐 **LinkIN:** [[Your GitHub Profile Link Here](https://www.linkedin.com/in/roxas-aljenjovi-c-1260a3378)]
+- 📧 **Email:** [roxasaljenjovi@gmail.com](mailto:roxasaljenjovi@gmail.com) 
+- 🌐 **LinkIN:** [[ROXAS Aljenjovi C.](https://www.linkedin.com/in/roxas-aljenjovi-c-1260a3378)]
 
 ---
 
