@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aljen Jovi C. Roxas</h1>
+<h1 align="center">Hi I'm Aljen Jovi C. Roxas</h1>
 <h3 align="center">Bachelor of Science in Information Technology (BSIT) student at Laguna State Polytechnic University Aspiring Web & Mobile Application Developer | Passionate about Software Development, Cloud Computing, and UI/UX Design</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rzecks&label=Profile%20views&color=0e75b6&style=flat" alt="rzecks" /> </p>
